@@ -1,6 +1,6 @@
 # Exercise-04c-Levels
 
-Exercise for MSCH-C220
+Exercise for Joey Barenie
 
 A demonstration of this exercise is available at [https://youtu.be/psRW-I77QKw](https://youtu.be/psRW-I77QKw)
 
